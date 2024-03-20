@@ -1,0 +1,787 @@
+[
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "fastapi.staticfiles",
+        "description": "fastapi.staticfiles",
+        "isExtraImport": true,
+        "detail": "fastapi.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "fastapi.staticfiles",
+        "description": "fastapi.staticfiles",
+        "isExtraImport": true,
+        "detail": "fastapi.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "fastapi.staticfiles",
+        "description": "fastapi.staticfiles",
+        "isExtraImport": true,
+        "detail": "fastapi.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "mangum",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mangum",
+        "description": "mangum",
+        "detail": "mangum",
+        "documentation": {}
+    },
+    {
+        "label": "Mangum",
+        "importPath": "mangum",
+        "description": "mangum",
+        "isExtraImport": true,
+        "detail": "mangum",
+        "documentation": {}
+    },
+    {
+        "label": "Mangum",
+        "importPath": "mangum",
+        "description": "mangum",
+        "isExtraImport": true,
+        "detail": "mangum",
+        "documentation": {}
+    },
+    {
+        "label": "Mangum",
+        "importPath": "mangum",
+        "description": "mangum",
+        "isExtraImport": true,
+        "detail": "mangum",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "dotenv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pformat",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "jmespath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "isExtraImport": true,
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "boto3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "boto3",
+        "description": "boto3",
+        "detail": "boto3",
+        "documentation": {}
+    },
+    {
+        "label": "NoCredentialsError",
+        "importPath": "botocore.exceptions",
+        "description": "botocore.exceptions",
+        "isExtraImport": true,
+        "detail": "botocore.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "venv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "venv",
+        "description": "venv",
+        "detail": "venv",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "check_auth",
+        "kind": 2,
+        "importPath": "eb_package.main",
+        "description": "eb_package.main",
+        "peekOfCode": "def check_auth(email:str):\n    is_authenticated = query_stripe(\"email\")\n    return {\"is_authenticated\": is_authenticated}\ndef query_stripe(email):\n    try:\n        # Query orders by email\n        orders = stripe.Order.list(email=email)\n        # Check if any orders exist\n        if not orders or len(orders.data) == 0:\n            return False",
+        "detail": "eb_package.main",
+        "documentation": {}
+    },
+    {
+        "label": "query_stripe",
+        "kind": 2,
+        "importPath": "eb_package.main",
+        "description": "eb_package.main",
+        "peekOfCode": "def query_stripe(email):\n    try:\n        # Query orders by email\n        orders = stripe.Order.list(email=email)\n        # Check if any orders exist\n        if not orders or len(orders.data) == 0:\n            return False\n        for order in orders.data:\n            # Extract order date and amount\n            order_date = datetime.fromtimestamp(order.created)",
+        "detail": "eb_package.main",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "eb_package.main",
+        "description": "eb_package.main",
+        "peekOfCode": "client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))\n# Set your Stripe API key\n#stripe.api_key = 'your_stripe_api_key'TODO Set up stripe api\napp = FastAPI()\nhandler = Mangum(app)\n# Mount a static directory to serve temporary images\napp.mount(\"/temp_images\", StaticFiles(directory=\"temp_images\"), name=\"temp_images\")\n# Function to save image temporarily and return its URL\nasync def save_temp_image(file: UploadFile, temp_dir=\"temp_images\") -> str:\n    try:",
+        "detail": "eb_package.main",
+        "documentation": {}
+    },
+    {
+        "label": "#stripe.api_key",
+        "kind": 5,
+        "importPath": "eb_package.main",
+        "description": "eb_package.main",
+        "peekOfCode": "#stripe.api_key = 'your_stripe_api_key'TODO Set up stripe api\napp = FastAPI()\nhandler = Mangum(app)\n# Mount a static directory to serve temporary images\napp.mount(\"/temp_images\", StaticFiles(directory=\"temp_images\"), name=\"temp_images\")\n# Function to save image temporarily and return its URL\nasync def save_temp_image(file: UploadFile, temp_dir=\"temp_images\") -> str:\n    try:\n        os.makedirs(temp_dir, exist_ok=True)\n        timestamp = str(time.time()).replace('.', '')[:10]",
+        "detail": "eb_package.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "eb_package.main",
+        "description": "eb_package.main",
+        "peekOfCode": "app = FastAPI()\nhandler = Mangum(app)\n# Mount a static directory to serve temporary images\napp.mount(\"/temp_images\", StaticFiles(directory=\"temp_images\"), name=\"temp_images\")\n# Function to save image temporarily and return its URL\nasync def save_temp_image(file: UploadFile, temp_dir=\"temp_images\") -> str:\n    try:\n        os.makedirs(temp_dir, exist_ok=True)\n        timestamp = str(time.time()).replace('.', '')[:10]\n        unique_id = uuid.uuid4().hex[:6]",
+        "detail": "eb_package.main",
+        "documentation": {}
+    },
+    {
+        "label": "handler",
+        "kind": 5,
+        "importPath": "eb_package.main",
+        "description": "eb_package.main",
+        "peekOfCode": "handler = Mangum(app)\n# Mount a static directory to serve temporary images\napp.mount(\"/temp_images\", StaticFiles(directory=\"temp_images\"), name=\"temp_images\")\n# Function to save image temporarily and return its URL\nasync def save_temp_image(file: UploadFile, temp_dir=\"temp_images\") -> str:\n    try:\n        os.makedirs(temp_dir, exist_ok=True)\n        timestamp = str(time.time()).replace('.', '')[:10]\n        unique_id = uuid.uuid4().hex[:6]\n        extension = os.path.splitext(file.filename)[1]",
+        "detail": "eb_package.main",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv_lambda.Scripts.jp",
+        "description": "venv_lambda.Scripts.jp",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('expression')\n    parser.add_argument('-f', '--filename',\n                        help=('The filename containing the input data.  '\n                              'If a filename is not given then data is '\n                              'read from stdin.'))\n    parser.add_argument('--ast', action='store_true',\n                        help=('Pretty print the AST, do not search the data.'))\n    args = parser.parse_args()",
+        "detail": "venv_lambda.Scripts.jp",
+        "documentation": {}
+    },
+    {
+        "label": "check_auth",
+        "kind": 2,
+        "importPath": "venv_lambda.main",
+        "description": "venv_lambda.main",
+        "peekOfCode": "def check_auth(email:str):\n    is_authenticated = query_stripe(\"email\")\n    return {\"is_authenticated\": is_authenticated}\n#def query_stripe(email):\n#    try:\n#        # Query orders by email\n#        orders = stripe.Order.list(email=email)\n#\n#        # Check if any orders exist\n#        if not orders or len(orders.data) == 0:",
+        "detail": "venv_lambda.main",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "venv_lambda.main",
+        "description": "venv_lambda.main",
+        "peekOfCode": "client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))\n# Set your Stripe API key\n#stripe.api_key = 'your_stripe_api_key'TODO Set up stripe api\napp = FastAPI()\nhandler = Mangum(app)\n# Mount a static directory to serve temporary images\napp.mount(\"/temp_images\", StaticFiles(directory=\"temp_images\"), name=\"temp_images\")\n# Function to save image temporarily and return its URL\nasync def save_temp_image(file: UploadFile, temp_dir=\"temp_images\") -> str:\n    try:",
+        "detail": "venv_lambda.main",
+        "documentation": {}
+    },
+    {
+        "label": "#stripe.api_key",
+        "kind": 5,
+        "importPath": "venv_lambda.main",
+        "description": "venv_lambda.main",
+        "peekOfCode": "#stripe.api_key = 'your_stripe_api_key'TODO Set up stripe api\napp = FastAPI()\nhandler = Mangum(app)\n# Mount a static directory to serve temporary images\napp.mount(\"/temp_images\", StaticFiles(directory=\"temp_images\"), name=\"temp_images\")\n# Function to save image temporarily and return its URL\nasync def save_temp_image(file: UploadFile, temp_dir=\"temp_images\") -> str:\n    try:\n        os.makedirs(temp_dir, exist_ok=True)\n        timestamp = str(time.time()).replace('.', '')[:10]",
+        "detail": "venv_lambda.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "venv_lambda.main",
+        "description": "venv_lambda.main",
+        "peekOfCode": "app = FastAPI()\nhandler = Mangum(app)\n# Mount a static directory to serve temporary images\napp.mount(\"/temp_images\", StaticFiles(directory=\"temp_images\"), name=\"temp_images\")\n# Function to save image temporarily and return its URL\nasync def save_temp_image(file: UploadFile, temp_dir=\"temp_images\") -> str:\n    try:\n        os.makedirs(temp_dir, exist_ok=True)\n        timestamp = str(time.time()).replace('.', '')[:10]\n        unique_id = uuid.uuid4().hex[:6]",
+        "detail": "venv_lambda.main",
+        "documentation": {}
+    },
+    {
+        "label": "handler",
+        "kind": 5,
+        "importPath": "venv_lambda.main",
+        "description": "venv_lambda.main",
+        "peekOfCode": "handler = Mangum(app)\n# Mount a static directory to serve temporary images\napp.mount(\"/temp_images\", StaticFiles(directory=\"temp_images\"), name=\"temp_images\")\n# Function to save image temporarily and return its URL\nasync def save_temp_image(file: UploadFile, temp_dir=\"temp_images\") -> str:\n    try:\n        os.makedirs(temp_dir, exist_ok=True)\n        timestamp = str(time.time()).replace('.', '')[:10]\n        unique_id = uuid.uuid4().hex[:6]\n        extension = os.path.splitext(file.filename)[1]",
+        "detail": "venv_lambda.main",
+        "documentation": {}
+    },
+    {
+        "label": "check_auth",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def check_auth(email:str):\n    is_authenticated = query_stripe(\"email\")\n    return {\"is_authenticated\": is_authenticated}\n#def query_stripe(email):\n#    try:\n#        # Query orders by email\n#        orders = stripe.Order.list(email=email)\n#\n#        # Check if any orders exist\n#        if not orders or len(orders.data) == 0:",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))\ns3_client = boto3.client('s3')\n# Set your Stripe API key\n#stripe.api_key = 'your_stripe_api_key'TODO Set up stripe api\n#add CORS to the app\napp = FastAPI()\norigins = [\n    \"http://localhost\",\n    \"http://localhost:8080\",\n    \"http://localhost:3040\",",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "s3_client",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "s3_client = boto3.client('s3')\n# Set your Stripe API key\n#stripe.api_key = 'your_stripe_api_key'TODO Set up stripe api\n#add CORS to the app\napp = FastAPI()\norigins = [\n    \"http://localhost\",\n    \"http://localhost:8080\",\n    \"http://localhost:3040\",\n    \"http://localhost:3000\",",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "#stripe.api_key",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "#stripe.api_key = 'your_stripe_api_key'TODO Set up stripe api\n#add CORS to the app\napp = FastAPI()\norigins = [\n    \"http://localhost\",\n    \"http://localhost:8080\",\n    \"http://localhost:3040\",\n    \"http://localhost:3000\",\n    \"https://maumasi.github.io/image-ai-response-mobile/\",\n    \"https://image-ai-staging-86b1efe5762c.herokuapp.com/upload\",",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = FastAPI()\norigins = [\n    \"http://localhost\",\n    \"http://localhost:8080\",\n    \"http://localhost:3040\",\n    \"http://localhost:3000\",\n    \"https://maumasi.github.io/image-ai-response-mobile/\",\n    \"https://image-ai-staging-86b1efe5762c.herokuapp.com/upload\",\n    \"http://164.90.147.123/upload\",\n    \"http://164.90.147.123\",",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "origins = [\n    \"http://localhost\",\n    \"http://localhost:8080\",\n    \"http://localhost:3040\",\n    \"http://localhost:3000\",\n    \"https://maumasi.github.io/image-ai-response-mobile/\",\n    \"https://image-ai-staging-86b1efe5762c.herokuapp.com/upload\",\n    \"http://164.90.147.123/upload\",\n    \"http://164.90.147.123\",\n    \"https://soldai4.onrender.com\",",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "handler",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "handler = Mangum(app)\n# Mount a static directory to serve temporary images\napp.mount(\"/temp_images\", StaticFiles(directory=\"temp_images\"), name=\"temp_images\")\n# Function to save image temporarily and return its URL\ns3_client = boto3.client('s3')\nasync def save_temp_image_to_s3(file: UploadFile, bucket_name=\"soldai\") -> str:\n    try:\n        # Generate a unique file name\n        timestamp = str(time.time()).replace('.', '')[:10]\n        unique_id = uuid.uuid4().hex[:6]",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "s3_client",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "s3_client = boto3.client('s3')\nasync def save_temp_image_to_s3(file: UploadFile, bucket_name=\"soldai\") -> str:\n    try:\n        # Generate a unique file name\n        timestamp = str(time.time()).replace('.', '')[:10]\n        unique_id = uuid.uuid4().hex[:6]\n        extension = os.path.splitext(file.filename)[1]\n        s3_file_name = f\"{timestamp}_{unique_id}{extension}\"\n        # Read the file contents\n        contents = await file.read()",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "math_with_multimedia_prompt",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "math_with_multimedia_prompt = '''\nCompetency: Math With Multimedia Inputs (Text + Images)\nInstructions: Multimedia reasoning\nDescription\nDesign tasks for the AI Assistant that test the ability to perform math with multimedia inputs.\nHow to design a task\nFirst, you will need to source a suitable kind of image, which could be one that you already have access to, or based on a web search. Please choose images which convey information that you understand so that you can accurately assess how well the AI Assistant deals with your input. Please also try to choose images that you think users might plausibly have questions about if they did not have the same level of understanding as yourself. Please upload high resolution images only.\nOnce you have a suitable image, upload it (see detailed instructions in the task itself for more info), and create a suitable question, request or instruction for the AI Assistant. There are many different kinds of questions people might want an AI Assistant to answer. We give some general suggestions of types of task here, but please use your creativity to come up with as many as you can:\nAnswering math questions using a diagram, figure or graph (algebra, calculus, geometry, topology, set theory, tables)\nFinding errors in an image containing equations of mathematical reasoning",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app_files",
+        "kind": 5,
+        "importPath": "deploy",
+        "description": "deploy",
+        "peekOfCode": "app_files = [\"main.py\",'.env']  # Add other files as needed\nrequirements_file = \"requirements.txt\"  # Path to your requirements file\n# Setup virtual environment directory name\nvenv_dir = \"venv_lambda\"\n# Create virtual environment\nvenv.create(venv_dir, with_pip=True)\n# Activate the virtual environment and install dependencies\npip_install_cmd = f\"{venv_dir}/bin/pip install -r {requirements_file}\"\nsubprocess.run(pip_install_cmd, shell=True, check=True)\n# Install additional dependencies required by AWS Lambda & FastAPI",
+        "detail": "deploy",
+        "documentation": {}
+    },
+    {
+        "label": "requirements_file",
+        "kind": 5,
+        "importPath": "deploy",
+        "description": "deploy",
+        "peekOfCode": "requirements_file = \"requirements.txt\"  # Path to your requirements file\n# Setup virtual environment directory name\nvenv_dir = \"venv_lambda\"\n# Create virtual environment\nvenv.create(venv_dir, with_pip=True)\n# Activate the virtual environment and install dependencies\npip_install_cmd = f\"{venv_dir}/bin/pip install -r {requirements_file}\"\nsubprocess.run(pip_install_cmd, shell=True, check=True)\n# Install additional dependencies required by AWS Lambda & FastAPI\nadditional_packages = [\"fastapi\", \"uvicorn\", \"mangum\"]",
+        "detail": "deploy",
+        "documentation": {}
+    },
+    {
+        "label": "venv_dir",
+        "kind": 5,
+        "importPath": "deploy",
+        "description": "deploy",
+        "peekOfCode": "venv_dir = \"venv_lambda\"\n# Create virtual environment\nvenv.create(venv_dir, with_pip=True)\n# Activate the virtual environment and install dependencies\npip_install_cmd = f\"{venv_dir}/bin/pip install -r {requirements_file}\"\nsubprocess.run(pip_install_cmd, shell=True, check=True)\n# Install additional dependencies required by AWS Lambda & FastAPI\nadditional_packages = [\"fastapi\", \"uvicorn\", \"mangum\"]\nsubprocess.run([f\"{venv_dir}/bin/pip\", \"install\"] + additional_packages, check=True)\n# Path to the site-packages directory where dependencies are installed",
+        "detail": "deploy",
+        "documentation": {}
+    },
+    {
+        "label": "pip_install_cmd",
+        "kind": 5,
+        "importPath": "deploy",
+        "description": "deploy",
+        "peekOfCode": "pip_install_cmd = f\"{venv_dir}/bin/pip install -r {requirements_file}\"\nsubprocess.run(pip_install_cmd, shell=True, check=True)\n# Install additional dependencies required by AWS Lambda & FastAPI\nadditional_packages = [\"fastapi\", \"uvicorn\", \"mangum\"]\nsubprocess.run([f\"{venv_dir}/bin/pip\", \"install\"] + additional_packages, check=True)\n# Path to the site-packages directory where dependencies are installed\nsite_packages_dir = os.path.join(venv_dir, \"lib\", subprocess.check_output([f\"{venv_dir}/bin/python\", \"-c\", \"import site; print(site.getsitepackages()[0])\"]).decode().strip())\n# Create a /temp_images directory inside the package\ntemp_images_dir = os.path.join(site_packages_dir, \"temp_images\")\nos.makedirs(temp_images_dir, exist_ok=True)",
+        "detail": "deploy",
+        "documentation": {}
+    },
+    {
+        "label": "additional_packages",
+        "kind": 5,
+        "importPath": "deploy",
+        "description": "deploy",
+        "peekOfCode": "additional_packages = [\"fastapi\", \"uvicorn\", \"mangum\"]\nsubprocess.run([f\"{venv_dir}/bin/pip\", \"install\"] + additional_packages, check=True)\n# Path to the site-packages directory where dependencies are installed\nsite_packages_dir = os.path.join(venv_dir, \"lib\", subprocess.check_output([f\"{venv_dir}/bin/python\", \"-c\", \"import site; print(site.getsitepackages()[0])\"]).decode().strip())\n# Create a /temp_images directory inside the package\ntemp_images_dir = os.path.join(site_packages_dir, \"temp_images\")\nos.makedirs(temp_images_dir, exist_ok=True)\n# Optionally, copy any static files to the /temp_images directory here\n# Example: shutil.copy('path/to/static/image.jpg', temp_images_dir)\n# Copy app files to the site-packages directory",
+        "detail": "deploy",
+        "documentation": {}
+    },
+    {
+        "label": "site_packages_dir",
+        "kind": 5,
+        "importPath": "deploy",
+        "description": "deploy",
+        "peekOfCode": "site_packages_dir = os.path.join(venv_dir, \"lib\", subprocess.check_output([f\"{venv_dir}/bin/python\", \"-c\", \"import site; print(site.getsitepackages()[0])\"]).decode().strip())\n# Create a /temp_images directory inside the package\ntemp_images_dir = os.path.join(site_packages_dir, \"temp_images\")\nos.makedirs(temp_images_dir, exist_ok=True)\n# Optionally, copy any static files to the /temp_images directory here\n# Example: shutil.copy('path/to/static/image.jpg', temp_images_dir)\n# Copy app files to the site-packages directory\nfor file in app_files:\n    shutil.copy(file, site_packages_dir)\n# Zip the entire virtual environment site-packages for AWS Lambda",
+        "detail": "deploy",
+        "documentation": {}
+    },
+    {
+        "label": "temp_images_dir",
+        "kind": 5,
+        "importPath": "deploy",
+        "description": "deploy",
+        "peekOfCode": "temp_images_dir = os.path.join(site_packages_dir, \"temp_images\")\nos.makedirs(temp_images_dir, exist_ok=True)\n# Optionally, copy any static files to the /temp_images directory here\n# Example: shutil.copy('path/to/static/image.jpg', temp_images_dir)\n# Copy app files to the site-packages directory\nfor file in app_files:\n    shutil.copy(file, site_packages_dir)\n# Zip the entire virtual environment site-packages for AWS Lambda\nshutil.make_archive(\"my_fastapi_app\", 'zip', site_packages_dir)\nprint(\"Packaging complete. The zip file is ready for deployment.\")",
+        "detail": "deploy",
+        "documentation": {}
+    },
+    {
+        "label": "app_files",
+        "kind": 5,
+        "importPath": "deploy_windows",
+        "description": "deploy_windows",
+        "peekOfCode": "app_files = [\"main.py\", \".env\"]  # Add other files as needed\nrequirements_file = \"requirements.txt\"  # Path to your requirements file\n# Setup virtual environment directory name\nvenv_dir = \"venv_lambda\"\n# Path to the Python 3.11 executable\n# Adjust this according to the actual location or command for Python 3.11 on your system\npython_executable = \"python\"  # or use the full path if `python3.11` is not directly accessible\n# Create virtual environment with Python 3.11 using subprocess\nsubprocess.run([python_executable, \"-m\", \"venv\", venv_dir], check=True)\n# Windows-specific paths for the virtual environment",
+        "detail": "deploy_windows",
+        "documentation": {}
+    },
+    {
+        "label": "requirements_file",
+        "kind": 5,
+        "importPath": "deploy_windows",
+        "description": "deploy_windows",
+        "peekOfCode": "requirements_file = \"requirements.txt\"  # Path to your requirements file\n# Setup virtual environment directory name\nvenv_dir = \"venv_lambda\"\n# Path to the Python 3.11 executable\n# Adjust this according to the actual location or command for Python 3.11 on your system\npython_executable = \"python\"  # or use the full path if `python3.11` is not directly accessible\n# Create virtual environment with Python 3.11 using subprocess\nsubprocess.run([python_executable, \"-m\", \"venv\", venv_dir], check=True)\n# Windows-specific paths for the virtual environment\npip_path = os.path.join(venv_dir, \"Scripts\", \"pip.exe\")",
+        "detail": "deploy_windows",
+        "documentation": {}
+    },
+    {
+        "label": "venv_dir",
+        "kind": 5,
+        "importPath": "deploy_windows",
+        "description": "deploy_windows",
+        "peekOfCode": "venv_dir = \"venv_lambda\"\n# Path to the Python 3.11 executable\n# Adjust this according to the actual location or command for Python 3.11 on your system\npython_executable = \"python\"  # or use the full path if `python3.11` is not directly accessible\n# Create virtual environment with Python 3.11 using subprocess\nsubprocess.run([python_executable, \"-m\", \"venv\", venv_dir], check=True)\n# Windows-specific paths for the virtual environment\npip_path = os.path.join(venv_dir, \"Scripts\", \"pip.exe\")\npython_path = os.path.join(venv_dir, \"Scripts\", \"python.exe\")\n# Activate the virtual environment and install dependencies",
+        "detail": "deploy_windows",
+        "documentation": {}
+    },
+    {
+        "label": "python_executable",
+        "kind": 5,
+        "importPath": "deploy_windows",
+        "description": "deploy_windows",
+        "peekOfCode": "python_executable = \"python\"  # or use the full path if `python3.11` is not directly accessible\n# Create virtual environment with Python 3.11 using subprocess\nsubprocess.run([python_executable, \"-m\", \"venv\", venv_dir], check=True)\n# Windows-specific paths for the virtual environment\npip_path = os.path.join(venv_dir, \"Scripts\", \"pip.exe\")\npython_path = os.path.join(venv_dir, \"Scripts\", \"python.exe\")\n# Activate the virtual environment and install dependencies\npip_install_cmd = [pip_path, \"install\", \"-r\", requirements_file]\nsubprocess.run(pip_install_cmd, check=True)\n# Install additional dependencies required by AWS Lambda & FastAPI",
+        "detail": "deploy_windows",
+        "documentation": {}
+    },
+    {
+        "label": "pip_path",
+        "kind": 5,
+        "importPath": "deploy_windows",
+        "description": "deploy_windows",
+        "peekOfCode": "pip_path = os.path.join(venv_dir, \"Scripts\", \"pip.exe\")\npython_path = os.path.join(venv_dir, \"Scripts\", \"python.exe\")\n# Activate the virtual environment and install dependencies\npip_install_cmd = [pip_path, \"install\", \"-r\", requirements_file]\nsubprocess.run(pip_install_cmd, check=True)\n# Install additional dependencies required by AWS Lambda & FastAPI\nadditional_packages = [\"fastapi\", \"uvicorn\", \"mangum\"]\nsubprocess.run([pip_path, \"install\"] + additional_packages, check=True)\n# Use subprocess to get the site-packages directory path\nsite_packages_dir = subprocess.check_output([python_path, \"-c\", \"import site; print(site.getsitepackages()[0])\"], text=True).strip()",
+        "detail": "deploy_windows",
+        "documentation": {}
+    },
+    {
+        "label": "python_path",
+        "kind": 5,
+        "importPath": "deploy_windows",
+        "description": "deploy_windows",
+        "peekOfCode": "python_path = os.path.join(venv_dir, \"Scripts\", \"python.exe\")\n# Activate the virtual environment and install dependencies\npip_install_cmd = [pip_path, \"install\", \"-r\", requirements_file]\nsubprocess.run(pip_install_cmd, check=True)\n# Install additional dependencies required by AWS Lambda & FastAPI\nadditional_packages = [\"fastapi\", \"uvicorn\", \"mangum\"]\nsubprocess.run([pip_path, \"install\"] + additional_packages, check=True)\n# Use subprocess to get the site-packages directory path\nsite_packages_dir = subprocess.check_output([python_path, \"-c\", \"import site; print(site.getsitepackages()[0])\"], text=True).strip()\n# Create a /temp_images directory inside the package",
+        "detail": "deploy_windows",
+        "documentation": {}
+    },
+    {
+        "label": "pip_install_cmd",
+        "kind": 5,
+        "importPath": "deploy_windows",
+        "description": "deploy_windows",
+        "peekOfCode": "pip_install_cmd = [pip_path, \"install\", \"-r\", requirements_file]\nsubprocess.run(pip_install_cmd, check=True)\n# Install additional dependencies required by AWS Lambda & FastAPI\nadditional_packages = [\"fastapi\", \"uvicorn\", \"mangum\"]\nsubprocess.run([pip_path, \"install\"] + additional_packages, check=True)\n# Use subprocess to get the site-packages directory path\nsite_packages_dir = subprocess.check_output([python_path, \"-c\", \"import site; print(site.getsitepackages()[0])\"], text=True).strip()\n# Create a /temp_images directory inside the package\ntemp_images_dir = os.path.join(site_packages_dir, \"temp_images\")\nos.makedirs(temp_images_dir, exist_ok=True)",
+        "detail": "deploy_windows",
+        "documentation": {}
+    },
+    {
+        "label": "additional_packages",
+        "kind": 5,
+        "importPath": "deploy_windows",
+        "description": "deploy_windows",
+        "peekOfCode": "additional_packages = [\"fastapi\", \"uvicorn\", \"mangum\"]\nsubprocess.run([pip_path, \"install\"] + additional_packages, check=True)\n# Use subprocess to get the site-packages directory path\nsite_packages_dir = subprocess.check_output([python_path, \"-c\", \"import site; print(site.getsitepackages()[0])\"], text=True).strip()\n# Create a /temp_images directory inside the package\ntemp_images_dir = os.path.join(site_packages_dir, \"temp_images\")\nos.makedirs(temp_images_dir, exist_ok=True)\n# Copy app files to the site-packages directory\nfor file in app_files:\n    shutil.copy(file, site_packages_dir)",
+        "detail": "deploy_windows",
+        "documentation": {}
+    },
+    {
+        "label": "site_packages_dir",
+        "kind": 5,
+        "importPath": "deploy_windows",
+        "description": "deploy_windows",
+        "peekOfCode": "site_packages_dir = subprocess.check_output([python_path, \"-c\", \"import site; print(site.getsitepackages()[0])\"], text=True).strip()\n# Create a /temp_images directory inside the package\ntemp_images_dir = os.path.join(site_packages_dir, \"temp_images\")\nos.makedirs(temp_images_dir, exist_ok=True)\n# Copy app files to the site-packages directory\nfor file in app_files:\n    shutil.copy(file, site_packages_dir)\n# Navigate to the site-packages directory to zip the contents for AWS Lambda\nshutil.make_archive(\"periscope\", 'zip', site_packages_dir)\nprint(\"Packaging complete. The zip file is ready for deployment.\")",
+        "detail": "deploy_windows",
+        "documentation": {}
+    },
+    {
+        "label": "temp_images_dir",
+        "kind": 5,
+        "importPath": "deploy_windows",
+        "description": "deploy_windows",
+        "peekOfCode": "temp_images_dir = os.path.join(site_packages_dir, \"temp_images\")\nos.makedirs(temp_images_dir, exist_ok=True)\n# Copy app files to the site-packages directory\nfor file in app_files:\n    shutil.copy(file, site_packages_dir)\n# Navigate to the site-packages directory to zip the contents for AWS Lambda\nshutil.make_archive(\"periscope\", 'zip', site_packages_dir)\nprint(\"Packaging complete. The zip file is ready for deployment.\")\n# Move the zip file to a desired location (e.g., project root)\nshutil.move(\"periscope.zip\", os.path.join(os.getcwd(), \"periscope.zip\"))",
+        "detail": "deploy_windows",
+        "documentation": {}
+    },
+    {
+        "label": "app_files",
+        "kind": 5,
+        "importPath": "ebdeploy",
+        "description": "ebdeploy",
+        "peekOfCode": "app_files = [\"main.py\", \".env\", \"requirements.txt\"]  # Add other necessary files\n# Additional files Elastic Beanstalk might need\nadditional_files = [\"Procfile\"]\n# Setup directory name for the Elastic Beanstalk deployment package\neb_package_dir = \"eb_package\"\n# Create the deployment package directory if it doesn't exist\nos.makedirs(eb_package_dir, exist_ok=True)\n# Copy application and additional files to the deployment package directory\nfor file in app_files + additional_files:\n    shutil.copy(file, eb_package_dir)",
+        "detail": "ebdeploy",
+        "documentation": {}
+    },
+    {
+        "label": "additional_files",
+        "kind": 5,
+        "importPath": "ebdeploy",
+        "description": "ebdeploy",
+        "peekOfCode": "additional_files = [\"Procfile\"]\n# Setup directory name for the Elastic Beanstalk deployment package\neb_package_dir = \"eb_package\"\n# Create the deployment package directory if it doesn't exist\nos.makedirs(eb_package_dir, exist_ok=True)\n# Copy application and additional files to the deployment package directory\nfor file in app_files + additional_files:\n    shutil.copy(file, eb_package_dir)\n# Check if a Procfile exists, if not, create one\nprocfile_path = os.path.join(eb_package_dir, \"Procfile\")",
+        "detail": "ebdeploy",
+        "documentation": {}
+    },
+    {
+        "label": "eb_package_dir",
+        "kind": 5,
+        "importPath": "ebdeploy",
+        "description": "ebdeploy",
+        "peekOfCode": "eb_package_dir = \"eb_package\"\n# Create the deployment package directory if it doesn't exist\nos.makedirs(eb_package_dir, exist_ok=True)\n# Copy application and additional files to the deployment package directory\nfor file in app_files + additional_files:\n    shutil.copy(file, eb_package_dir)\n# Check if a Procfile exists, if not, create one\nprocfile_path = os.path.join(eb_package_dir, \"Procfile\")\n#if Procfile does not exist, create one\nwith open(procfile_path, 'w') as procfile:",
+        "detail": "ebdeploy",
+        "documentation": {}
+    },
+    {
+        "label": "procfile_path",
+        "kind": 5,
+        "importPath": "ebdeploy",
+        "description": "ebdeploy",
+        "peekOfCode": "procfile_path = os.path.join(eb_package_dir, \"Procfile\")\n#if Procfile does not exist, create one\nwith open(procfile_path, 'w') as procfile:\n    procfile.write(\"web: uvicorn main:app --host 0.0.0.0 --port 5000\")\n# Navigate to the deployment package directory\nos.chdir(eb_package_dir)\n# Zip the contents for Elastic Beanstalk\nshutil.make_archive(\"../eb_deployment_package\", 'zip', \".\")\nprint(\"Packaging complete. The zip file is ready for deployment to Elastic Beanstalk.\")\n# Note: Cleanup of the eb_package directory is optional after zipping.",
+        "detail": "ebdeploy",
+        "documentation": {}
+    }
+]
